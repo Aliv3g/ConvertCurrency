@@ -1,0 +1,20 @@
+C:\Users\aliso\OneDrive - RCKY Infformática Ltda\PROJETOS\ConvertCurrency\ConvertCurrency.Model\bin\Debug\netcoreapp2.0\ConvertCurrency.Domain.deps.json
+C:\Users\aliso\OneDrive - RCKY Infformática Ltda\PROJETOS\ConvertCurrency\ConvertCurrency.Model\bin\Debug\netcoreapp2.0\ConvertCurrency.Domain.dll
+C:\Users\aliso\OneDrive - RCKY Infformática Ltda\PROJETOS\ConvertCurrency\ConvertCurrency.Model\bin\Debug\netcoreapp2.0\ConvertCurrency.Domain.pdb
+C:\Users\aliso\OneDrive - RCKY Infformática Ltda\PROJETOS\ConvertCurrency\ConvertCurrency.Model\obj\Debug\netcoreapp2.0\ConvertCurrency.Domain.csproj.CoreCompileInputs.cache
+C:\Users\aliso\OneDrive - RCKY Infformática Ltda\PROJETOS\ConvertCurrency\ConvertCurrency.Model\obj\Debug\netcoreapp2.0\ConvertCurrency.Domain.AssemblyInfoInputs.cache
+C:\Users\aliso\OneDrive - RCKY Infformática Ltda\PROJETOS\ConvertCurrency\ConvertCurrency.Model\obj\Debug\netcoreapp2.0\ConvertCurrency.Domain.AssemblyInfo.cs
+C:\Users\aliso\OneDrive - RCKY Infformática Ltda\PROJETOS\ConvertCurrency\ConvertCurrency.Model\obj\Debug\netcoreapp2.0\ConvertCurrency.Domain.dll
+C:\Users\aliso\OneDrive - RCKY Infformática Ltda\PROJETOS\ConvertCurrency\ConvertCurrency.Model\obj\Debug\netcoreapp2.0\ConvertCurrency.Domain.pdb
+D:\ProjestosAngular\ConvertCurrency\ConvertCurrency.Model\bin\Debug\netcoreapp2.0\ConvertCurrency.Domain.deps.json
+D:\ProjestosAngular\ConvertCurrency\ConvertCurrency.Model\bin\Debug\netcoreapp2.0\ConvertCurrency.Domain.dll
+D:\ProjestosAngular\ConvertCurrency\ConvertCurrency.Model\bin\Debug\netcoreapp2.0\ConvertCurrency.Domain.pdb
+D:\ProjestosAngular\ConvertCurrency\ConvertCurrency.Model\bin\Debug\netcoreapp2.0\ConvertCurrency.Common.dll
+D:\ProjestosAngular\ConvertCurrency\ConvertCurrency.Model\bin\Debug\netcoreapp2.0\ConvertCurrency.Common.pdb
+D:\ProjestosAngular\ConvertCurrency\ConvertCurrency.Model\obj\Debug\netcoreapp2.0\ConvertCurrency.Domain.csprojAssemblyReference.cache
+D:\ProjestosAngular\ConvertCurrency\ConvertCurrency.Model\obj\Debug\netcoreapp2.0\ConvertCurrency.Domain.csproj.CoreCompileInputs.cache
+D:\ProjestosAngular\ConvertCurrency\ConvertCurrency.Model\obj\Debug\netcoreapp2.0\ConvertCurrency.Domain.AssemblyInfoInputs.cache
+D:\ProjestosAngular\ConvertCurrency\ConvertCurrency.Model\obj\Debug\netcoreapp2.0\ConvertCurrency.Domain.AssemblyInfo.cs
+D:\ProjestosAngular\ConvertCurrency\ConvertCurrency.Model\obj\Debug\netcoreapp2.0\ConvertCurrency.Domain.csproj.CopyComplete
+D:\ProjestosAngular\ConvertCurrency\ConvertCurrency.Model\obj\Debug\netcoreapp2.0\ConvertCurrency.Domain.dll
+D:\ProjestosAngular\ConvertCurrency\ConvertCurrency.Model\obj\Debug\netcoreapp2.0\ConvertCurrency.Domain.pdb

@@ -1,0 +1,32 @@
+C:\Users\aliso\OneDrive - RCKY Infformática Ltda\PROJETOS\ConvertCurrency\ConvertCurrency.Services\bin\Debug\netcoreapp2.0\ConvertCurrency.Services.deps.json
+C:\Users\aliso\OneDrive - RCKY Infformática Ltda\PROJETOS\ConvertCurrency\ConvertCurrency.Services\bin\Debug\netcoreapp2.0\ConvertCurrency.Services.dll
+C:\Users\aliso\OneDrive - RCKY Infformática Ltda\PROJETOS\ConvertCurrency\ConvertCurrency.Services\bin\Debug\netcoreapp2.0\ConvertCurrency.Services.pdb
+C:\Users\aliso\OneDrive - RCKY Infformática Ltda\PROJETOS\ConvertCurrency\ConvertCurrency.Services\bin\Debug\netcoreapp2.0\ConvertCurrency.Common.dll
+C:\Users\aliso\OneDrive - RCKY Infformática Ltda\PROJETOS\ConvertCurrency\ConvertCurrency.Services\bin\Debug\netcoreapp2.0\ConvertCurrency.Domain.dll
+C:\Users\aliso\OneDrive - RCKY Infformática Ltda\PROJETOS\ConvertCurrency\ConvertCurrency.Services\bin\Debug\netcoreapp2.0\ConvertCurrency.Infrastructure.dll
+C:\Users\aliso\OneDrive - RCKY Infformática Ltda\PROJETOS\ConvertCurrency\ConvertCurrency.Services\bin\Debug\netcoreapp2.0\ConvertCurrency.Infrastructure.pdb
+C:\Users\aliso\OneDrive - RCKY Infformática Ltda\PROJETOS\ConvertCurrency\ConvertCurrency.Services\bin\Debug\netcoreapp2.0\ConvertCurrency.Common.pdb
+C:\Users\aliso\OneDrive - RCKY Infformática Ltda\PROJETOS\ConvertCurrency\ConvertCurrency.Services\bin\Debug\netcoreapp2.0\ConvertCurrency.Domain.pdb
+C:\Users\aliso\OneDrive - RCKY Infformática Ltda\PROJETOS\ConvertCurrency\ConvertCurrency.Services\obj\Debug\netcoreapp2.0\ConvertCurrency.Services.csprojAssemblyReference.cache
+C:\Users\aliso\OneDrive - RCKY Infformática Ltda\PROJETOS\ConvertCurrency\ConvertCurrency.Services\obj\Debug\netcoreapp2.0\ConvertCurrency.Services.csproj.CoreCompileInputs.cache
+C:\Users\aliso\OneDrive - RCKY Infformática Ltda\PROJETOS\ConvertCurrency\ConvertCurrency.Services\obj\Debug\netcoreapp2.0\ConvertCurrency.Services.AssemblyInfoInputs.cache
+C:\Users\aliso\OneDrive - RCKY Infformática Ltda\PROJETOS\ConvertCurrency\ConvertCurrency.Services\obj\Debug\netcoreapp2.0\ConvertCurrency.Services.AssemblyInfo.cs
+C:\Users\aliso\OneDrive - RCKY Infformática Ltda\PROJETOS\ConvertCurrency\ConvertCurrency.Services\obj\Debug\netcoreapp2.0\ConvertCurrency.Services.csproj.CopyComplete
+C:\Users\aliso\OneDrive - RCKY Infformática Ltda\PROJETOS\ConvertCurrency\ConvertCurrency.Services\obj\Debug\netcoreapp2.0\ConvertCurrency.Services.dll
+C:\Users\aliso\OneDrive - RCKY Infformática Ltda\PROJETOS\ConvertCurrency\ConvertCurrency.Services\obj\Debug\netcoreapp2.0\ConvertCurrency.Services.pdb
+D:\ProjestosAngular\ConvertCurrency\ConvertCurrency.Services\bin\Debug\netcoreapp2.0\ConvertCurrency.Services.deps.json
+D:\ProjestosAngular\ConvertCurrency\ConvertCurrency.Services\bin\Debug\netcoreapp2.0\ConvertCurrency.Services.dll
+D:\ProjestosAngular\ConvertCurrency\ConvertCurrency.Services\bin\Debug\netcoreapp2.0\ConvertCurrency.Services.pdb
+D:\ProjestosAngular\ConvertCurrency\ConvertCurrency.Services\bin\Debug\netcoreapp2.0\ConvertCurrency.Common.dll
+D:\ProjestosAngular\ConvertCurrency\ConvertCurrency.Services\bin\Debug\netcoreapp2.0\ConvertCurrency.Domain.dll
+D:\ProjestosAngular\ConvertCurrency\ConvertCurrency.Services\bin\Debug\netcoreapp2.0\ConvertCurrency.Infrastructure.dll
+D:\ProjestosAngular\ConvertCurrency\ConvertCurrency.Services\bin\Debug\netcoreapp2.0\ConvertCurrency.Infrastructure.pdb
+D:\ProjestosAngular\ConvertCurrency\ConvertCurrency.Services\bin\Debug\netcoreapp2.0\ConvertCurrency.Common.pdb
+D:\ProjestosAngular\ConvertCurrency\ConvertCurrency.Services\bin\Debug\netcoreapp2.0\ConvertCurrency.Domain.pdb
+D:\ProjestosAngular\ConvertCurrency\ConvertCurrency.Services\obj\Debug\netcoreapp2.0\ConvertCurrency.Services.csprojAssemblyReference.cache
+D:\ProjestosAngular\ConvertCurrency\ConvertCurrency.Services\obj\Debug\netcoreapp2.0\ConvertCurrency.Services.csproj.CoreCompileInputs.cache
+D:\ProjestosAngular\ConvertCurrency\ConvertCurrency.Services\obj\Debug\netcoreapp2.0\ConvertCurrency.Services.AssemblyInfoInputs.cache
+D:\ProjestosAngular\ConvertCurrency\ConvertCurrency.Services\obj\Debug\netcoreapp2.0\ConvertCurrency.Services.AssemblyInfo.cs
+D:\ProjestosAngular\ConvertCurrency\ConvertCurrency.Services\obj\Debug\netcoreapp2.0\ConvertCurrency.Services.csproj.CopyComplete
+D:\ProjestosAngular\ConvertCurrency\ConvertCurrency.Services\obj\Debug\netcoreapp2.0\ConvertCurrency.Services.dll
+D:\ProjestosAngular\ConvertCurrency\ConvertCurrency.Services\obj\Debug\netcoreapp2.0\ConvertCurrency.Services.pdb

@@ -1,0 +1,28 @@
+C:\Users\aliso\OneDrive - RCKY Infformática Ltda\PROJETOS\ConvertCurrency\ConvertCurrency.Infrastructure\bin\Debug\netcoreapp2.0\ConvertCurrency.Infrastructure.deps.json
+C:\Users\aliso\OneDrive - RCKY Infformática Ltda\PROJETOS\ConvertCurrency\ConvertCurrency.Infrastructure\bin\Debug\netcoreapp2.0\ConvertCurrency.Infrastructure.dll
+C:\Users\aliso\OneDrive - RCKY Infformática Ltda\PROJETOS\ConvertCurrency\ConvertCurrency.Infrastructure\bin\Debug\netcoreapp2.0\ConvertCurrency.Infrastructure.pdb
+C:\Users\aliso\OneDrive - RCKY Infformática Ltda\PROJETOS\ConvertCurrency\ConvertCurrency.Infrastructure\bin\Debug\netcoreapp2.0\ConvertCurrency.Common.dll
+C:\Users\aliso\OneDrive - RCKY Infformática Ltda\PROJETOS\ConvertCurrency\ConvertCurrency.Infrastructure\bin\Debug\netcoreapp2.0\ConvertCurrency.Domain.dll
+C:\Users\aliso\OneDrive - RCKY Infformática Ltda\PROJETOS\ConvertCurrency\ConvertCurrency.Infrastructure\bin\Debug\netcoreapp2.0\ConvertCurrency.Common.pdb
+C:\Users\aliso\OneDrive - RCKY Infformática Ltda\PROJETOS\ConvertCurrency\ConvertCurrency.Infrastructure\bin\Debug\netcoreapp2.0\ConvertCurrency.Domain.pdb
+C:\Users\aliso\OneDrive - RCKY Infformática Ltda\PROJETOS\ConvertCurrency\ConvertCurrency.Infrastructure\obj\Debug\netcoreapp2.0\ConvertCurrency.Infrastructure.csprojAssemblyReference.cache
+C:\Users\aliso\OneDrive - RCKY Infformática Ltda\PROJETOS\ConvertCurrency\ConvertCurrency.Infrastructure\obj\Debug\netcoreapp2.0\ConvertCurrency.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\aliso\OneDrive - RCKY Infformática Ltda\PROJETOS\ConvertCurrency\ConvertCurrency.Infrastructure\obj\Debug\netcoreapp2.0\ConvertCurrency.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\aliso\OneDrive - RCKY Infformática Ltda\PROJETOS\ConvertCurrency\ConvertCurrency.Infrastructure\obj\Debug\netcoreapp2.0\ConvertCurrency.Infrastructure.AssemblyInfo.cs
+C:\Users\aliso\OneDrive - RCKY Infformática Ltda\PROJETOS\ConvertCurrency\ConvertCurrency.Infrastructure\obj\Debug\netcoreapp2.0\ConvertCurrency.Infrastructure.csproj.CopyComplete
+C:\Users\aliso\OneDrive - RCKY Infformática Ltda\PROJETOS\ConvertCurrency\ConvertCurrency.Infrastructure\obj\Debug\netcoreapp2.0\ConvertCurrency.Infrastructure.dll
+C:\Users\aliso\OneDrive - RCKY Infformática Ltda\PROJETOS\ConvertCurrency\ConvertCurrency.Infrastructure\obj\Debug\netcoreapp2.0\ConvertCurrency.Infrastructure.pdb
+D:\ProjestosAngular\ConvertCurrency\ConvertCurrency.Infrastructure\bin\Debug\netcoreapp2.0\ConvertCurrency.Infrastructure.deps.json
+D:\ProjestosAngular\ConvertCurrency\ConvertCurrency.Infrastructure\bin\Debug\netcoreapp2.0\ConvertCurrency.Infrastructure.dll
+D:\ProjestosAngular\ConvertCurrency\ConvertCurrency.Infrastructure\bin\Debug\netcoreapp2.0\ConvertCurrency.Infrastructure.pdb
+D:\ProjestosAngular\ConvertCurrency\ConvertCurrency.Infrastructure\bin\Debug\netcoreapp2.0\ConvertCurrency.Common.dll
+D:\ProjestosAngular\ConvertCurrency\ConvertCurrency.Infrastructure\bin\Debug\netcoreapp2.0\ConvertCurrency.Domain.dll
+D:\ProjestosAngular\ConvertCurrency\ConvertCurrency.Infrastructure\bin\Debug\netcoreapp2.0\ConvertCurrency.Common.pdb
+D:\ProjestosAngular\ConvertCurrency\ConvertCurrency.Infrastructure\bin\Debug\netcoreapp2.0\ConvertCurrency.Domain.pdb
+D:\ProjestosAngular\ConvertCurrency\ConvertCurrency.Infrastructure\obj\Debug\netcoreapp2.0\ConvertCurrency.Infrastructure.csprojAssemblyReference.cache
+D:\ProjestosAngular\ConvertCurrency\ConvertCurrency.Infrastructure\obj\Debug\netcoreapp2.0\ConvertCurrency.Infrastructure.csproj.CoreCompileInputs.cache
+D:\ProjestosAngular\ConvertCurrency\ConvertCurrency.Infrastructure\obj\Debug\netcoreapp2.0\ConvertCurrency.Infrastructure.AssemblyInfoInputs.cache
+D:\ProjestosAngular\ConvertCurrency\ConvertCurrency.Infrastructure\obj\Debug\netcoreapp2.0\ConvertCurrency.Infrastructure.AssemblyInfo.cs
+D:\ProjestosAngular\ConvertCurrency\ConvertCurrency.Infrastructure\obj\Debug\netcoreapp2.0\ConvertCurrency.Infrastructure.csproj.CopyComplete
+D:\ProjestosAngular\ConvertCurrency\ConvertCurrency.Infrastructure\obj\Debug\netcoreapp2.0\ConvertCurrency.Infrastructure.dll
+D:\ProjestosAngular\ConvertCurrency\ConvertCurrency.Infrastructure\obj\Debug\netcoreapp2.0\ConvertCurrency.Infrastructure.pdb

@@ -1,0 +1,79 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "4bf20b3f4b187ddd01af96ea47dda577c5263775"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "ConvertCurrency.Services/1.0.0": {
+        "dependencies": {
+          "ConvertCurrency.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "ConvertCurrency.Services.dll": {}
+        }
+      },
+      "Newtonsoft.Json/12.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.2.23222"
+          }
+        }
+      },
+      "ConvertCurrency.Common/1.0.0": {
+        "runtime": {
+          "ConvertCurrency.Common.dll": {}
+        }
+      },
+      "ConvertCurrency.Domain/1.0.0": {
+        "dependencies": {
+          "ConvertCurrency.Common": "1.0.0"
+        },
+        "runtime": {
+          "ConvertCurrency.Domain.dll": {}
+        }
+      },
+      "ConvertCurrency.Infrastructure/1.0.0": {
+        "dependencies": {
+          "ConvertCurrency.Common": "1.0.0",
+          "ConvertCurrency.Domain": "1.0.0",
+          "Newtonsoft.Json": "12.0.2"
+        },
+        "runtime": {
+          "ConvertCurrency.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConvertCurrency.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/12.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-mtweBXPWhp1CMQATtBT7ZfMZrbZBTKfjGwz6Y75NwGjx/GztDaUnfw8GK9KZ2T4fDIqKJyDjc9Rxlw5+G2FcVA==",
+      "path": "newtonsoft.json/12.0.2",
+      "hashPath": "newtonsoft.json.12.0.2.nupkg.sha512"
+    },
+    "ConvertCurrency.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ConvertCurrency.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ConvertCurrency.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
